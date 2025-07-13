@@ -30,5 +30,3 @@ with DAG(
         python_callable=print_message,
         provide_context=True
     )
-
-
